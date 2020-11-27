@@ -3,7 +3,7 @@
 ### Hi i'm matias, a software developer from argentina, i like to build things that helps people
 ### and software is the tool that i use. 
 
-### i know the MERN stac, but im open to use other stacks as well
+### i know the MERN stack, but im open to use other stacks as well
 
 
 # - my e-mail : sys_tec@outlook.com
