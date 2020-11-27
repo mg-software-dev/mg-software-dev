@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to my github portfolio page!
 
-You can use the [editor on GitHub](https://github.com/mg-software-dev/mg-software-dev/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Hi i'm matias, a software developer from argentina, i like to build things that helps people
+### and software is the tool that i use. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### i know the MERN stac, but im open to use other stacks as well
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# - my e-mail : sys_tec@outlook.com
+# - [my other github page (where i post proyects, tips and tutorials)] (https://virtualsoda369.github.io/VirtualSoda369/)
 
-```markdown
-Syntax highlighted code block
+# Here is the list of repos
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mg-software-dev/mg-software-dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [repo_1]()
