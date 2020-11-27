@@ -9,7 +9,7 @@
 
 
 
-#### i know the MERN stack
+#### i'm learning the MERN stack
 
 
 
