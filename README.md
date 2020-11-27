@@ -9,7 +9,7 @@
 
 
 
-#### i'm learning the MERN stack
+#### i make software with the MERN stack (or with node, or vanilla JS depending on the project)
 
 
 
