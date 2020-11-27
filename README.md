@@ -9,7 +9,7 @@
 
 
 
-#### i know the MERN stack, but im open to use other stacks as well
+#### i know the MERN stack
 
 
 
