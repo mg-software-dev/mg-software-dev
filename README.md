@@ -25,4 +25,5 @@
 
 # Here is the list of repos
 
-- [get the most used colors in a image](https://mg-software-dev.github.io/most_repeated_color/)
+- [get the most used colors in a image (repo)](https://github.com/mg-software-dev/most_repeated_color)
+    ---- [you can try it here](https://mg-software-dev.github.io/most_repeated_color/)
