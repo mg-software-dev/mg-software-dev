@@ -24,5 +24,5 @@
 
 # Here is the list of repos
 
--- [Neural network in js](https://github.com/mg-software-dev/neural_net_in_js)
--- [Color/images to sound](https://github.com/mg-software-dev/color_to_sound)
+- [Neural network in js](https://github.com/mg-software-dev/neural_net_in_js)
+- [Color/images to sound](https://github.com/mg-software-dev/color_to_sound)
